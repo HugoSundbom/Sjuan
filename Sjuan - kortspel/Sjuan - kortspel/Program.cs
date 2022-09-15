@@ -10,14 +10,24 @@ namespace Sjuan___kortspel
             List<Tuple<int, string> > Kortlek = new List<Tuple<int, string> >();
 
             string colour = "hjärter";
-            int colourcount = 1;
 
-            for (int i = 2; i < 15; i++)
+            for (int i = 1; i < 14; i++)
             {
                 Kortlek.Add(new Tuple<int, string>(i, colour));
-                if (i == 14 && Kortlek.Count < 14)
+                if (i == 13 && Kortlek.Count < 26)
                 {
-                    i = 1;
+                    colour = "spader";
+                    i = 0;
+                }
+                if (i == 13 && Kortlek.Count < 38)
+                {
+                    colour = "ruter";
+                    i = 0;
+                }
+                if (i == 13 && Kortlek.Count < 52)
+                {
+                    colour = "klöver";
+                    i = 0;
                 }
             }
 

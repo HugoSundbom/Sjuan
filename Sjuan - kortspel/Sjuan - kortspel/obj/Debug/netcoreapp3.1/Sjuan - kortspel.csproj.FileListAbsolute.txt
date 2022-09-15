@@ -12,3 +12,17 @@ C:\Users\max.pajnert\source\repos\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\ne
 C:\Users\max.pajnert\source\repos\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.dll
 C:\Users\max.pajnert\source\repos\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.pdb
 C:\Users\max.pajnert\source\repos\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.genruntimeconfig.cache
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\bin\Debug\netcoreapp3.1\Sjuan - kortspel.exe
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\bin\Debug\netcoreapp3.1\Sjuan - kortspel.deps.json
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\bin\Debug\netcoreapp3.1\Sjuan - kortspel.runtimeconfig.json
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\bin\Debug\netcoreapp3.1\Sjuan - kortspel.runtimeconfig.dev.json
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\bin\Debug\netcoreapp3.1\Sjuan - kortspel.dll
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\bin\Debug\netcoreapp3.1\Sjuan - kortspel.pdb
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.csproj.AssemblyReference.cache
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.AssemblyInfoInputs.cache
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.AssemblyInfo.cs
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.csproj.CoreCompileInputs.cache
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.dll
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.pdb
+C:\Users\hugo.sundbom\Desktop\Sjuan\Sjuan - kortspel\Sjuan - kortspel\obj\Debug\netcoreapp3.1\Sjuan - kortspel.genruntimeconfig.cache
